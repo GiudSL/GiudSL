@@ -55,5 +55,3 @@
 ---
 
 > ✨ _"A cada linha de código e cada pixel projetado, estou construindo o meu futuro no mundo da tecnologia."_
->
-> Adiciona README do perfil
